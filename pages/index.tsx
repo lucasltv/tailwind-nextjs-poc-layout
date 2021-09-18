@@ -3,7 +3,7 @@ import React from "react";
 export default function Home() {
   return (
     <div className="flex">
-      <div className="flex-1 h-screen bg-gray-200 py-2 px-4">
+      <div className="flex-1/2 h-screen bg-gray-200 py-2 px-4">
         <div className="text-3xl font-bold my-2 mb-6 text-black new-font">
           <svg className="w-8 inline -mt-1" fill="#000000" viewBox="0 0 20 20">
             <path d="M10 12a2 2 0 100-4 2 2 0 000 4z"></path>
